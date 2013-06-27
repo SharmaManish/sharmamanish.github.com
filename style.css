@@ -1,0 +1,65 @@
+.header {
+                height: 100px;
+                background-color: #F1F1F1;
+                overflow-y: hidden;
+ }
+
+.main {
+	margin-left: 50px;
+
+}
+
+h1 {
+	color: #07A66B;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 30px;
+}
+
+h2 {
+
+	color: gray;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 15px;
+}
+
+ul {
+list-style-type: none;
+
+}
+
+#gp {
+margin-top: 0px;
+margin-left: 500px;
+
+}
+
+#ld {
+margin-top: 30px;
+margin-left: 300px;
+}
+
+#fb {
+margin-top: 20px;
+margin-left: 300px;
+}
+
+#qu {
+margin-top: 50px;
+margin-left: 450px;
+}
+
+#tw {
+margin-top: -270px;
+margin-left: 830px;
+}
+
+#gh {
+margin-top: 40px;
+margin-left: 800px;
+}
+
+body {
+display: block;
+margin: 0px;
+
+}
