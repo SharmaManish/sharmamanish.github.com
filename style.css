@@ -13,6 +13,7 @@ h1 {
 	color: #07A66B;
 	font-family: Impact, Charcoal, sans-serif;
 	font-size: 30px;
+	font-weight: inherit;
 }
 
 h2 {
@@ -20,6 +21,7 @@ h2 {
 	color: gray;
 	font-family: Impact, Charcoal, sans-serif;
 	font-size: 15px;
+	font-weight: inherit;
 }
 
 ul {
